@@ -1,0 +1,9 @@
+{
+  "name": "mern-lab-crud-array",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Array-based CRUD REST API with HTML and CSS frontend",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
