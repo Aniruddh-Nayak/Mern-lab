@@ -115,23 +115,25 @@ Both endpoints accept JSON with `email` and `password` fields. Passwords must co
 
 ## Screenshots
 
-Add your screenshots to `docs/screenshots/`, then replace the placeholder text below with the corresponding Markdown image, for example:
 
-```md
-![Part A output](./docs/screenshots/part-a-output.png)
-```
+
 
 ### Part A — REST API inventory output
 
-_Screenshot placeholder — add the Part A application output here._
+<img width="2560" height="1484" alt="Screenshot_20261029_222248" src="https://github.com/user-attachments/assets/5d3ab372-d013-46ee-be35-6400af018539" />
+<img width="2098" height="952" alt="Screenshot_20261029_222319" src="https://github.com/user-attachments/assets/849d81ed-0ce1-4648-b1c8-c4d38181184b" />
+<img width="2098" height="952" alt="Screenshot_20261029_222348" src="https://github.com/user-attachments/assets/c695233d-999a-477b-b0a4-722d420a719a" />
 
-<!-- Add: ![Part A output](./docs/screenshots/part-a-output.png) -->
+
+
 
 ### Part B — MongoDB sign-up/login output
+<img width="2554" height="1429" alt="partb1" src="https://github.com/user-attachments/assets/b98b644c-7920-42b9-9e67-557ab00b0346" />
+<img width="2554" height="1429" alt="partb2" src="https://github.com/user-attachments/assets/bddd3359-5c36-46c8-8285-f938bcd58021" />
+<img width="2554" height="1429" alt="partb3" src="https://github.com/user-attachments/assets/66154f1d-6e2b-425f-92f2-68b8684a832f" />
 
-_Screenshot placeholder — add the Part B application output here._
 
-<!-- Add: ![Part B output](./docs/screenshots/part-b-output.png) -->
+
 
 ## Project structure
 
